@@ -1,4 +1,4 @@
-# 北京VPN - 5月3日21.8M/S|免费V2ray节点/Singbox节点/SSR节点/Clash节点/Shadowrocket节点节点推荐，VPN节点购买推荐  更新时间 2026-05-03 12:09:50
+# 北京VPN - 5月10日22.5M/S|免费SSR节点/Singbox节点/Shadowrocket节点/Clash节点/V2ray节点节点推荐，VPN节点购买推荐  更新时间 2026-05-10 09:30:44
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://beijingvpn.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://beijingvpn.github.io/uploads/2026/05/0-20260503.yaml
-- https://beijingvpn.github.io/uploads/2026/05/1-20260503.yaml
-- https://beijingvpn.github.io/uploads/2026/05/2-20260503.yaml
-- https://beijingvpn.github.io/uploads/2026/05/3-20260503.yaml
-- https://beijingvpn.github.io/uploads/2026/05/4-20260503.yaml
+- https://beijingvpn.github.io/uploads/2026/05/0-20260510.yaml
+- https://beijingvpn.github.io/uploads/2026/05/1-20260510.yaml
+- https://beijingvpn.github.io/uploads/2026/05/2-20260510.yaml
+- https://beijingvpn.github.io/uploads/2026/05/3-20260510.yaml
+- https://beijingvpn.github.io/uploads/2026/05/4-20260510.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://beijingvpn.github.io/uploads/2026/05/0-20260503.txt
-- https://beijingvpn.github.io/uploads/2026/05/1-20260503.txt
-- https://beijingvpn.github.io/uploads/2026/05/2-20260503.txt
-- https://beijingvpn.github.io/uploads/2026/05/3-20260503.txt
-- https://beijingvpn.github.io/uploads/2026/05/4-20260503.txt
+- https://beijingvpn.github.io/uploads/2026/05/0-20260510.txt
+- https://beijingvpn.github.io/uploads/2026/05/1-20260510.txt
+- https://beijingvpn.github.io/uploads/2026/05/2-20260510.txt
+- https://beijingvpn.github.io/uploads/2026/05/3-20260510.txt
+- https://beijingvpn.github.io/uploads/2026/05/4-20260510.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://beijingvpn.github.io/uploads/2026/05/20260503.json
+- https://beijingvpn.github.io/uploads/2026/05/20260510.json
 
 ## 更多Clash节点订阅 ：
 
