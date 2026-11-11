@@ -1,4 +1,4 @@
-# 北京VPN - 11月4日22M/S|免费Singbox节点/V2ray节点/Clash节点/SSR节点/Shadowrocket节点节点推荐，VPN节点购买推荐  更新时间 2026-11-04 18:09:37
+# 北京VPN - 11月11日18.9M/S|免费Singbox节点/Shadowrocket节点/SSR节点/Clash节点/V2ray节点节点推荐，VPN节点购买推荐  更新时间 2026-11-11 09:50:39
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://beijingvpn.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://beijingvpn.github.io/uploads/2026/11/0-20261104.yaml
-- https://beijingvpn.github.io/uploads/2026/11/1-20261104.yaml
-- https://beijingvpn.github.io/uploads/2026/11/2-20261104.yaml
-- https://beijingvpn.github.io/uploads/2026/11/3-20261104.yaml
-- https://beijingvpn.github.io/uploads/2026/11/4-20261104.yaml
+- https://beijingvpn.github.io/uploads/2026/11/0-20261111.yaml
+- https://beijingvpn.github.io/uploads/2026/11/1-20261111.yaml
+- https://beijingvpn.github.io/uploads/2026/11/2-20261111.yaml
+- https://beijingvpn.github.io/uploads/2026/11/3-20261111.yaml
+- https://beijingvpn.github.io/uploads/2026/11/4-20261111.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://beijingvpn.github.io/uploads/2026/11/0-20261104.txt
-- https://beijingvpn.github.io/uploads/2026/11/1-20261104.txt
-- https://beijingvpn.github.io/uploads/2026/11/2-20261104.txt
-- https://beijingvpn.github.io/uploads/2026/11/3-20261104.txt
-- https://beijingvpn.github.io/uploads/2026/11/4-20261104.txt
+- https://beijingvpn.github.io/uploads/2026/11/0-20261111.txt
+- https://beijingvpn.github.io/uploads/2026/11/1-20261111.txt
+- https://beijingvpn.github.io/uploads/2026/11/2-20261111.txt
+- https://beijingvpn.github.io/uploads/2026/11/3-20261111.txt
+- https://beijingvpn.github.io/uploads/2026/11/4-20261111.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://beijingvpn.github.io/uploads/2026/11/20261104.json
+- https://beijingvpn.github.io/uploads/2026/11/20261111.json
 
 ## 更多Clash节点订阅 ：
 
